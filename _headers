@@ -1,0 +1,5 @@
+/Build/*.gz
+  Content-Encoding: gzip
+
+/TemplateData/*.gz
+  Content-Encoding: gzip
